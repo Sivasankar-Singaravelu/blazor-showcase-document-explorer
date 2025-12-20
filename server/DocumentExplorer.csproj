@@ -44,7 +44,7 @@
     <PackageReference Include="Syncfusion.PresentationRenderer.Net.Core" Version="32.1.19" />
     <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="8.0.2" />
     <PackageReference Include="Microsoft.Extensions.Caching.Memory" Version="9.0.0" />
-	  <PackageReference Include="SkiaSharp.NativeAssets.Linux" Version="3.116.1" />
+	  <PackageReference Include="SkiaSharp.NativeAssets.Linux" Version="3.119.1" />
   </ItemGroup>
 
   <ItemGroup>
